@@ -1,0 +1,8 @@
+title: The Balham Ukulele Society Songbook Project
+description: Songs arranged for the ukulele in an open format to correct and improve. And add to.
+google_analytics: UA-38452356-1
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
